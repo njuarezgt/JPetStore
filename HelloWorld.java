@@ -2,7 +2,7 @@ public class HelloWorld {
 
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
-        System.out.println("Hello World GBM Test 2");
+        System.out.println("Hello World to All Participants");
     }
 
 }
